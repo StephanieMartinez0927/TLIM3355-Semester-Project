@@ -1,0 +1,40 @@
+HW 1 AI use
+
+Tool Used: For this assignment, I have used ChatGPT 
+
+What was it used for:
+- It was used to explain me the difference between a functional and non-functional requirement for 2 specific requirements I was assigning.
+
+Prompts:
+1.  "explain to me if call to customer service is a functional or non-functional requirement for a smart parking software"
+
+2. "what about the system allowing users to use multiple payment methods"
+
+
+What you kept vs. what you changed
+I kept the 2 examples for each requirement I asked the AI to define for me, but paraphrasing them in my own words.
+
+1. Output 1:
+	For example:
+
+	“The system shall allow users to contact customer service by tapping a ‘Call Support’ button.”
+
+	That is functional because it describes what the system must do—provide a way for the user to initiate a call.
+
+	However, requirements about the quality or performance of that customer service would be non-functional. For example:
+
+	“Customer service must answer calls within 2 minutes.”
+
+	That describes a performance/service standard, not a software function.
+
+2. Output 2:
+
+	For example:
+
+	“The system shall allow users to pay for parking using multiple payment methods, such as credit cards, debit cards, digital wallets, and stored payment methods.”
+
+	It is functional because it describes what the system must be able to do.
+
+	A related non-functional requirement would be something like:
+
+	“Payment transactions must be processed within 3 seconds.”
